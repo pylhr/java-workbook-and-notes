@@ -1,0 +1,13 @@
+
+*
+
+
+!*.java
+
+
+!*/
+
+# Optional: Ignore other specific files or directories if needed
+# For example:
+# .gitignore itself
+!.gitignore

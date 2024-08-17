@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Java
+
+theme:
+  name: material
+
+nav:
+  - Introduction : index.md
+  

@@ -6,9 +6,29 @@
       {
         "id": "d8ccf8801caf4e98",
         "type": "tabs",
+        "dimension": 62.58389261744966,
         "children": [
           {
             "id": "90d8fa14f9c9a255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c3f9edb521083e82",
+        "type": "tabs",
+        "dimension": 37.41610738255034,
+        "children": [
+          {
+            "id": "f305c99ff2d49bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90d8fa14f9c9a255",
+  "active": "f305c99ff2d49bf5",
   "lastOpenFiles": [
     "Introduction.md"
   ]
